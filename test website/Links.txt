@@ -7,3 +7,8 @@ https://www.w3schools.com/howto/howto_js_sidenav.asp
 https://www.w3schools.com/howto/howto_js_navbar_shrink_scroll.asp
 
 https://www.w3schools.com/howto/howto_js_off-canvas.asp
+
+https://www.w3schools.com/howto/howto_html_include.asp
+
+
+https://www.w3schools.com/howto/howto_css_profile_card.asp
